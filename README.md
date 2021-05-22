@@ -1,14 +1,37 @@
-## Big Dream
+# PhuQuoc Dog Core Contract 👋
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000)
+[![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://phuquocdoge.com)
+[![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)](LICENSE)
 
-Phu Quoc Doge ($PQD) is a smart contract  like Shibatoken. Decentralized a dog social network, it is the best social network for pets, where you can share photos and videos of your pet's life, rescue puppies, adopt a pet, find pet friendly places and take advantage of our useful pet services. Join the moon mission. 🐶
+> Phu Quoc Doge ($PQD) is a smart contract like Shibatoken. Decentralized dogs social network, it is the best social network for pets, where you can share photos and videos of your pet's life, rescue puppies, adopt a pet, find pet friendly places and take advantage of our useful pet services. Join the moon mission. 🐶
+
+### 🏠 [Homepage](https://phuquocdoge.com)
+
+### ✨ [Demo](https://phuquocdoge.com)
+
+## Install
+
+```sh
+npm install
+```
+
+## Author
+
+👤 **PhuQuoc Dog Developers**
+
+* Website: https://phuquocdoge.com
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check [issues page](https://github.com/phuquocdoge/contracts/issues). You can also take a look at the [contributing guide](CODE_OF_CONDUCT.md).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
 
 
-- Where to buy? **Pancakeswap**: [LINK](https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x8ca4a76a0b883FC38E332FdFE4eE611ee3150E80)
-- Where to view chart? **Poocoin**: [LINK](https://poocoin.app/tokens/0x8ca4a76a0b883FC38E332FdFE4eE611ee3150E80)
+## 📝 License
 
-- Contract:
-0x8ca4a76a0b883FC38E332FdFE4eE611ee3150E80
-
-- Website: https://phuquocdoge.com/
-
-
+This project is [GNU](/LICENSE) licensed.
